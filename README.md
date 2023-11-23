@@ -1,11 +1,3 @@
-<p align = "center">
-<img width="700" src ="https://user-images.githubusercontent.com/72688726/187684537-4684634f-89e6-49a7-82b2-4b912576281a.jpeg">
-</p>
-<p align = "center">Photo by
-<a href="https://user-images.githubusercontent.com/72688726/187684537-4684634f-89e6-49a7-82b2-4b912576281a.jpeg">Devam Jhabak</a> on <a href="https://unsplash.com/s/photos/spam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</p>
-<br>
-
 # Discovering Instagrammable Attractions in Switzerland: From Data Collection to Data Visualization
 ### Developed end-to-end data pipelines to address decreasing online conversion rates for Swiss online travel agencies
 
