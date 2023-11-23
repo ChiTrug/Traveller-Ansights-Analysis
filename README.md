@@ -13,28 +13,11 @@
 Booking a trip is a hassle for many travellers as the booking process involves various products, making the customer journey even more complicated than in other industries. To capture traveller preferences through digital touch-points and help online travel agencies to improve conversion across travellers’ digital journeys, a data lake and a data-driven traveller insight dashboard are created aims to help OTAs optimize digital experience and marketing strategy. In this project, the Design Thinking methodology is adopted to define the use case, persona and critical touch-points to establish a data collection strategy. A series of Data engineering includes planning data architecture, constructing data pipelines and fetching data using open APIs deployed for building a traveller database. Following that, data manipulation and data analysis were conducted to generate traveller insights, and finally, a dashboard is to address decreasing online conversion rates for Swiss online travel agencies.
 
 
-# Authors & Contribution
- - [Carol Hsu](https://github.com/hsuwanying): Business Design, Data Strategy, Data Engeneering (Instagram, MySwtitzerland, Die Post), Data Analysis, Prototype
- - [Cheuh Yang](https://github.com/cyyang50): Data Architecture, Data Engeneering (Google Trend, Simplemap), Data Analysis, Prototype
-
 # Project Requirements
   - To build an end-to-end data pipeline and make it available for business analysis in a data warehouse environment
-  - Duration: Oct 01, 2021 ~ Dec 23, 2021
   - Use at least 2 APIs to obatian static and non static data
   - Present a prototype use data visualiation tools
  
-# Table of Content
- - [Background](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#background)
- - [Problem](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#problem)
- - [Solution](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#solution)
- - [Methods](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#methods)
- - [Data Source](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#data-source)
- - [Result](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#result)
- - [Limitation](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#limitation)
- - [Conclusion](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#conclusion)
- - [Project Reflection](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#project-reflection)
- - [Code Files](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#code-files)
- - [Reference](https://github.com/hsuwanying/traveller-insights-analysis/blob/main/README.md#reference)
 
 # Background
 
@@ -69,7 +52,7 @@ A travel database is built with the following data engeneer techniques:
 | [die Post ](https://swisspost.opendatasoft.com/explore/dataset/plz_verzeichnis_v2/table/?disjunctive.postleitzahl) | Download the “PLZ_Verzeichnis” CSV file via the link<br />It provides  `Postleitzahl`, `Ortbez18`, and `Kanton`, and information of each city |
 
 # Result: Proposed Prototype
-We constructed data pipelines to address the business problem that presents critical metrics with our proposed traveller insight dashboard. The IG Hashtag Statistic graph gives information about hashtag usage in each Instagram post. We can answer the following questions:
+I constructed data pipelines to address the business problem that presents critical metrics with our proposed traveller insight dashboard. The IG Hashtag Statistic graph gives information about hashtag usage in each Instagram post. We can answer the following questions:
 
 <br>
 
